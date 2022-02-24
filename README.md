@@ -1,4 +1,14 @@
-### Hi there 👋
+![Banner](./src/assets/banner.png)
+Hello there 👋,
+I am an aspiring game and game engine programmer, that recently finished my bachelor at the Karlsruher Institute of Technology (KIT) in Karlsruhe, Germany. Always interested in solving and understanding complex black box systems and to provide solutions for other developers, with excellent time management skills. I have experience with C++17 and knowledge of DirectX 9.0c and 3D graphic rendering technologies.
+
+## ✨ Portfolio
+
+
+## 💼 Skills
+
+## 📬 Get in touch
+
 
 <!--
 **lifebu/lifebu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
