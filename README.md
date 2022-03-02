@@ -26,6 +26,7 @@ I am an aspiring game and game engine programmer, that recently finished my bach
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=plastic&logo=git&logoColor=white&color=283443)
 ![](https://img.shields.io/badge/Tool-CMake-informational?style=plastic&logo=cmake&logoColor=white&color=283443)
+![](https://img.shields.io/badge/Tool-SCons-informational?style=plastic&logo=&logoColor=white&color=283443)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=white&color=283443)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=283443)
