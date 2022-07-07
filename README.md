@@ -42,6 +42,10 @@ I am an aspiring game and game engine programmer, that recently finished my bach
 E-Mail: mail@cburmeister.me
 
 ## My Projects
+In Development:
+- [rpg2k3-gb, 2022](https://github.com/lifebu/rpg2k3-gb): Gameboy Emulator written in C++ for RPGMaker 2003 with custom toolchain to allow compiling and debugging.
+
+Other:
 - [Bachelor Thesis, 2022](https://github.com/lifebu/BachelorThesis): Swarm Reinforcement Learning with Graph Neural Networks
 - [Ant-RTS, 2021](https://github.com/lifebu/Ant-RTS): Real-time strategy (RTS) game prototype with an ant theme. 
 - [Unity Engine Test Projects, 2018](https://github.com/lifebu/Unity-Projects): Collection of small experiments in the Unity Engine for learning purposes.
